@@ -24,6 +24,8 @@ extract 5.9 million novel and unique triples for Wikidata at an estimated precis
 
 All data used for the experiments in this paper are made available for download at [https://zenodo.org/record/3483254](https://zenodo.org/record/3483254).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3483254.svg)](https://doi.org/10.5281/zenodo.3483254)
+
 # Contact
 
 - Jhomara Luzuriaga
