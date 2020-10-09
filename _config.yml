@@ -1,3 +1,5 @@
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 repository: "wikitables/web-of-data-tables"
+plugins:
+  - jekyll-include-cache
