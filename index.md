@@ -1,3 +1,9 @@
+---
+layout: single
+classes:
+  - landing
+---
+
 ## Wikitables Project
 
 Description
