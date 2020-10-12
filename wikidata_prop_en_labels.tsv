@@ -1,0 +1,1368 @@
+id	label
+P1000	record held@en
+P1001	applies to jurisdiction@en
+P1002	engine configuration@en
+P1011	excluding@en
+P1012	including@en
+P1013	criterion used@en
+P1018	language regulatory body@en
+P101	field of work@en
+P1026	doctoral thesis@en
+P1027	conferred by@en
+P1028	donated by@en
+P1029	crew member@en
+P102	member of political party@en
+P1030	light characteristic of lighthouse@en
+P1032	Digital Rights Management system@en
+P1034	main food source@en
+P1035	honorific suffix@en
+P1037	director/manager@en
+P1037	manager/director@en
+P1038	relative@en
+P1039	type of kinship@en
+P103	native language@en
+P1040	film editor@en
+P1041	socket supported@en
+P1046	discovery method@en
+P1049	worshipped by@en
+P1050	medical condition@en
+P1053	ResearcherID@en
+P1056	product or material produced@en
+P1057	chromosome@en
+P105	taxon rank@en
+P1060	pathogen transmission process@en
+P1064	track gauge@en
+P1066	student of@en
+P1068	instruction set@en
+P106	occupation@en
+P1071	location of final assembly@en
+P1072	readable file format@en
+P1073	writable file format@en
+P1074	fictional analog of@en
+P1075	rector@en
+P1078	valvetrain configuration@en
+P1079	launch contractor@en
+P1080	from fictional universe@en
+P108	employer@en
+P109	signature@en
+P10	video@en
+P110	illustrator@en
+P111	measured physical quantity@en
+P112	founded by@en
+P1136	solved by@en
+P1137	fossil found in this unit@en
+P113	airline hub@en
+P1142	political ideology@en
+P1145	Lagrangian point@en
+P1149	Library of Congress Classification@en
+P114	airline alliance@en
+P1150	Regensburg Classification@en
+P1151	topic's main Wikimedia portal@en
+P1157	US Congress Bio ID@en
+P1158	location of landing@en
+P1159	CODEN@en
+P115	home venue@en
+P1160	ISO 4 abbreviation@en
+P1163	media type@en
+P1165	home world@en
+P1170	transmitted signal type@en
+P1171	approximation algorithm@en
+P117	chemical structure@en
+P1189	Chinese Library Classification@en
+P118	league@en
+P1192	connecting service@en
+P1194	received signal type@en
+P1196	manner of death@en
+P1199	mode of inheritance@en
+P119	place of burial@en
+P1200	bodies of water basin category@en
+P1201	space tug@en
+P1202	carries scientific instrument@en
+P1204	Wikimedia portal's main topic@en
+P1209	CN@en
+P1210	supercharger@en
+P1211	fuel system@en
+P121	item operated@en
+P1221	compressor type@en
+P1227	astronomical filter@en
+P122	basic form of government@en
+P123	publisher@en
+P1243	International Standard Recording Code@en
+P1258	Rotten Tomatoes ID@en
+P1264	valid in period@en
+P1268	represents@en
+P1269	facet of@en
+P126	maintained by@en
+P1278	Legal Entity ID@en
+P127	owned by@en
+P1283	filmography@en
+P128	regulates (molecular biology)@en
+P1290	godparent@en
+P1299	depicted by@en
+P129	physically interacts with@en
+P1302	primary destinations@en
+P1303	instrument@en
+P1304	central bank@en
+P1308	officeholder@en
+P1310	statement disputed by@en
+P1312	has facet polytope@en
+P1313	office held by head of government@en
+P1318	proved by@en
+P131	located in the administrative territorial entity@en
+P1321	place of origin (Switzerland)@en
+P1322	dual to@en
+P1324	source code repository@en
+P1325	external data available at@en
+P1327	professional or sports partner@en
+P1336	territory claimed by@en
+P1340	eye color@en
+P1343	described by source@en
+P1344	participant of@en
+P1346	winner@en
+P1347	military casualty classification@en
+P1349	ploidy@en
+P134	has dialect (DEPRECATED)@en
+P134	has dialect@en
+P135	movement@en
+P1363	points/goal scored by@en
+P1365	replaces@en
+P1366	replaced by@en
+P136	genre@en
+P1372	binding of software library@en
+P1376	capital of@en
+P1377	MTR station code@en
+P137	operator@en
+P1382	partially coincident with@en
+P1383	contains settlement@en
+P1387	political alignment@en
+P1389	product certification@en
+P138	named after@en
+P1393	proxy@en
+P1398	structure replaces@en
+P1399	convicted of@en
+P1403	original combination@en
+P1406	script directionality@en
+P1408	licensed to broadcast to@en
+P140	religion@en
+P1411	nominated for@en
+P1412	languages spoken, written or signed@en
+P1414	GUI toolkit or framework@en
+P1416	affiliation@en
+P1417	Encyclopædia Britannica Online ID@en
+P1419	shape@en
+P141	IUCN conservation status@en
+P1420	taxon synonym@en
+P1423	template's main topic@en
+P1424	topic's main template@en
+P1425	ecoregion (WWF)@en
+P1427	start point@en
+P1429	has pet@en
+P1431	executive producer@en
+P1432	B-side (DEPRECATED)@en
+P1432	B-side@en
+P1433	published in@en
+P1434	takes place in fictional universe@en
+P1435	heritage designation@en
+P1441	present in work@en
+P1442	image of grave@en
+P1444	destination point@en
+P1445	fictional universe described in@en
+P1448	official name@en
+P1449	nickname@en
+P144	based on@en
+P1451	motto text@en
+P1454	legal form@en
+P1455	list of works@en
+P1456	list of monuments@en
+P1462	standards body@en
+P1464	category for people born here@en
+P1465	category for people who died here@en
+P1472	Commons Creator page@en
+P1476	title@en
+P1477	birth name@en
+P1478	has immediate cause@en
+P1479	has contributing factor@en
+P1480	sourcing circumstances@en
+P149	architectural style@en
+P14	traffic sign@en
+P150	contains administrative territorial entity@en
+P1531	parent of this hybrid, breed, or cultivar@en
+P1531	parent(s) of this hybrid@en
+P1532	country for sport@en
+P1533	family name identical to this given name@en
+P1534	end cause@en
+P1535	used by@en
+P1536	immediate cause of@en
+P1537	contributing factor of@en
+P1542	has effect@en
+P1543	monogram@en
+P1546	motto@en
+P1547	depends on software@en
+P1549	demonym@en
+P154	logo image@en
+P1552	has quality@en
+P1557	manifestation of@en
+P1558	tempo marking@en
+P1559	name in native language@en
+P155	follows@en
+P1560	given name version for other gender@en
+P1563	MacTutor id (biographies)@en
+P1568	domain@en
+P156	followed by@en
+P1571	codomain@en
+P1574	exemplar of@en
+P1576	lifestyle@en
+P157	killed by@en
+P1582	natural product of taxon@en
+P1589	deepest point@en
+P1589	lowest point@en
+P158	seal image@en
+P1591	defendant@en
+P1592	prosecutor@en
+P1593	defender@en
+P1594	judge@en
+P1595	charge@en
+P1596	penalty@en
+P1598	consecrator@en
+P1599	Cambridge Alumni Database ID@en
+P159	headquarters location@en
+P15	route map@en
+P1604	biosafety level@en
+P1605	has natural reservoir@en
+P1606	natural reservoir of@en
+P1611	NATO code for grade@en
+P1612	Commons Institution page@en
+P161	cast member@en
+P1620	plaintiff@en
+P1621	detail map@en
+P1622	driving side@en
+P1625	has melody@en
+P1629	subject item of this property@en
+P162	producer@en
+P1637	undercarriage@en
+P1639	pendant of@en
+P163	flag@en
+P1640	curator@en
+P1642	acquisition transaction@en
+P1651	YouTube video ID@en
+P1652	referee@en
+P1654	wing configuration@en
+P1656	unveiled by@en
+P1657	MPAA film rating@en
+P1660	has index case@en
+P1663	ProCyclingStats cyclist ID@en
+P1668	ATCvet@en
+P166	award received@en
+P1672	this taxon is source of@en
+P1677	index case of@en
+P1678	has vertex figure@en
+P167	structure replaced by@en
+P1680	subtitle@en
+P1684	inscription@en
+P1686	for work@en
+P169	chief executive officer@en
+P16	highway system@en
+P1703	is pollinated by@en
+P1704	is pollinator of@en
+P1705	native label@en
+P1706	together with@en
+P1709	equivalent class@en
+P170	creator@en
+P1716	brand@en
+P1717	SANDRE ID@en
+P171	parent taxon@en
+P172	ethnic group@en
+P1731	Fach@en
+P1740	category for films shot at this location@en
+P1750	name day@en
+P1753	list related to category@en
+P1754	category related to list@en
+P175	performer@en
+P1766	place name sign@en
+P176	manufacturer@en
+P1772	USDA PLANTS ID@en
+P1773	attributed to@en
+P1775	follower of@en
+P1776	circle of@en
+P1777	manner of@en
+P1779	possible creator@en
+P177	crosses@en
+P1780	school of@en
+P1788	DVN ID@en
+P1789	chief operating officer@en
+P178	developer@en
+P1791	category of people buried here@en
+P1792	category of associated people@en
+P1793	format as a regular expression@en
+P179	part of the series@en
+P179	series@en
+P17	country@en
+P1801	commemorative plaque image@en
+P1809	choreographer@en
+P180	depicts@en
+P1811	list of episodes@en
+P1813	short name@en
+P1817	addressee@en
+P181	taxon range map image@en
+P1824	road number@en
+P1830	owner of@en
+P183	endemic to@en
+P1840	investigated by@en
+P1842	Global Anabaptist Mennonite Encyclopedia Online ID@en
+P1843	taxon common name@en
+P1846	distribution map@en
+P184	doctoral advisor@en
+P1851	input set@en
+P1853	blood type@en
+P1855	Wikidata property example@en
+P185	doctoral student@en
+P186	material used@en
+P1875	represented by@en
+P1876	vessel@en
+P1877	after a work by@en
+P1878	Vox-ATypI classification@en
+P1879	income classification (Philippines)@en
+P1880	measured by@en
+P1881	list of characters@en
+P1882	Web Gallery of Art ID@en
+P1884	hair color@en
+P1885	cathedral@en
+P1887	vice-county@en
+P1888	Dictionary of Medieval Names from European Sources entry@en
+P1889	different from@en
+P1891	signatory@en
+P1896	source website for the property@en
+P1897	highest note@en
+P1898	lowest note@en
+P189	location of discovery@en
+P18	image@en
+P1903	volcanic explosivity index@en
+P1906	office held by head of state@en
+P1909	side effect@en
+P190	sister city@en
+P190	twinned administrative body@en
+P1910	decreased expression in@en
+P1911	increased expression in@en
+P1912	deletion association with@en
+P1913	gene duplication association with@en
+P1914	gene insertion association with@en
+P1915	gene inversion association with@en
+P1916	gene substitution association with@en
+P1917	posttranslational modification association with@en
+P1918	altered regulation leads to@en
+P1922	first line@en
+P1923	participating team@en
+P1923	participating teams@en
+P1924	vaccine for@en
+P193	main building contractor@en
+P1943	location map@en
+P1947	Mapillary ID@en
+P194	legislative body@en
+P1950	second family name in Spanish name@en
+P1951	investor@en
+P1956	takeoff and landing capability@en
+P195	collection@en
+P1960	Google Scholar author ID@en
+P1962	patron@en
+P196	minor planet group@en
+P197	adjacent station@en
+P1981	FSK film rating@en
+P1990	species kept@en
+P1995	health specialty@en
+P1998	UCI code@en
+P1999	UNESCO language status@en
+P199	business division@en
+P19	place of birth@en
+P2002	Twitter username@en
+P200	lake inflows@en
+P2012	cuisine@en
+P2013	Facebook ID@en
+P201	lake outflow@en
+P2033	category for pictures taken with camera@en
+P2037	GitHub username@en
+P2038	ResearchGate profile ID@en
+P2058	depositor@en
+P205	basin country@en
+P2061	aspect ratio@en
+P206	located in or next to body of water@en
+P2078	user manual link@en
+P2079	fabrication method@en
+P2088	Crunchbase organisation ID@en
+P208	executive body@en
+P2093	author name string@en
+P2094	competition class@en
+P2095	co-driver@en
+P2098	substitute/deputy/replacement of office/officeholder@en
+P209	highest judicial authority@en
+P20	place of death@en
+P210	party chief representative@en
+P2127	International Nuclear Event Scale@en
+P2152	antiparticle@en
+P2155	solid solution series with@en
+P2156	pseudo crystal habit@en
+P2157	lithography@en
+P2159	solves@en
+P2175	medical condition treated@en
+P2176	drug used for treatment@en
+P217	inventory number@en
+P2184	history of topic@en
+P21	sex or gender@en
+P2210	relative to@en
+P2238	official symbol@en
+P2239	first aid measures@en
+P2241	reason for deprecation@en
+P225	taxon name@en
+P2266	Fashion Model Directory model ID@en
+P2272	Hederich encyclopedia article ID@en
+P2275	World Health Organisation International Nonproprietary Name@en
+P2279	ambitus@en
+P2283	uses@en
+P2286	arterial supply@en
+P2288	lymphatic drainage@en
+P2289	venous drainage@en
+P2291	charted in@en
+P2293	genetic association@en
+P229	IATA airline designator@en
+P22	father@en
+P2302	property constraint@en
+P2303	exception to constraint@en
+P2308	class@en
+P230	ICAO airline designator@en
+P2317	call sign@en
+P2318	debut participant@en
+P2319	elector@en
+P2321	general classification of race participants@en
+P2328	ProCyclingStats team ID@en
+P2329	antagonist muscle@en
+P2341	indigenous to@en
+P2348	time period@en
+P2352	applies to taxon@en
+P2353	statistical unit@en
+P2354	has list@en
+P2358	Roman praenomen@en
+P2359	Roman nomen gentilicium@en
+P235	InChIKey@en
+P2360	intended public@en
+P2361	online service@en
+P2363	NMHH film rating@en
+P2365	Roman cognomen@en
+P2366	Roman agnomen@en
+P2371	FAO risk status@en
+P2373	Genius artist ID@en
+P2375	has superpartner@en
+P2376	superpartner of@en
+P2377	MediaWiki hooks used@en
+P2378	issued by@en
+P2379	deprecated in version@en
+P237	coat of arms@en
+P2384	statement describes@en
+P2388	office held by head of the organisation@en
+P2389	organisation directed from the office@en
+P2389	organisation directed from the office or person@en
+P238	IATA airport code@en
+P2392	teaching method@en
+P2393	NCBI Locus tag@en
+P2394	MGI Gene Symbol@en
+P2396	image of function@en
+P2408	set in period@en
+P240	FAA airport code@en
+P2414	substrate of@en
+P2416	sports discipline competed in@en
+P2417	stage classification@en
+P241	military branch@en
+P2425	service ribbon image@en
+P2426	Xeno-canto species ID@en
+P242	locator map image@en
+P2433	gender of a scientific name of a genus@en
+P2438	narrator@en
+P2441	literal translation@en
+P2443	stage reached@en
+P2445	metasubclass of@en
+P2453	nominee@en
+P2462	member of the deme@en
+P2471	Models.com person ID@en
+P2479	SPDX ID@en
+P248	stated in@en
+P2499	league level above@en
+P2500	league level below@en
+P2501	results@en
+P2502	classification of race@en
+P2503	Historical Gazetteer (GOV) ID@en
+P2505	carries@en
+P2507	corrigendum / erratum@en
+P2512	series spin-off@en
+P2512	spin-off@en
+P2515	costume designer@en
+P2517	category for recipients of this award@en
+P2521	female form of label@en
+P2522	victory@en
+P2534	defining formula@en
+P2537	Free Software Directory entry@en
+P2541	operating area@en
+P2545	bowling style@en
+P2546	sidekick of@en
+P2548	strand orientation@en
+P2550	recording or performance of@en
+P2551	used metre@en
+P2553	in work@en
+P2554	production designer@en
+P2560	GPU@en
+P2561	name@en
+P2562	married name@en
+P2563	superhuman feature or ability@en
+P2564	Köppen climate classification@en
+P2567	amended by@en
+P2568	repealed by@en
+P2572	Twitter hashtag@en
+P2575	measures@en
+P2577	admissible rule in@en
+P2578	studies@en
+P2579	studied by@en
+P2580	Baltisches Biographisches Lexikon Digital ID (former scheme)@en
+P2587	has phoneme@en
+P2591	grammatical option indicates@en
+P2596	culture@en
+P2597	Gram staining@en
+P25	mother@en
+P2614	World Heritage criteria@en
+P2627	ISO 9362 SWIFT/BIC code@en
+P2629	BBFC rating@en
+P2632	place of detention@en
+P2633	geography of topic@en
+P2634	sitter@en
+P2637	RARS rating@en
+P263	official residence@en
+P2643	Carnegie Classification of Institutions of Higher Education@en
+P2647	source of material@en
+P264	record label@en
+P2650	interested in@en
+P2652	partnership with@en
+P2667	corresponding template@en
+P2670	has parts of the class@en
+P2673	next crossing upstream@en
+P2674	next crossing downstream@en
+P2675	reply to@en
+P2679	author of foreword@en
+P2680	author of afterword@en
+P2681	is recto of@en
+P2682	is verso of@en
+P2684	Kijkwijzer rating@en
+P2695	type locality@en
+P2695	type locality (geology)@en
+P2699	URL@en
+P26	spouse@en
+P2700	protocol@en
+P2701	file format@en
+P2702	dataset distribution@en
+P2713	sectional view@en
+P2715	elected in@en
+P272	production company@en
+P2734	Unz Review author ID@en
+P2735	Unz Review journal ID@en
+P2737	union of@en
+P2738	disjoint union of@en
+P2739	typeface/font used@en
+P2740	ResearchGate institute ID@en
+P2743	this zoological name is coordinate with@en
+P2746	production statistics@en
+P2747	Filmiroda rating@en
+P2756	EIRIN film rating@en
+P2758	CNC film rating (France)@en
+P275	license@en
+P276	location@en
+P2770	source of income@en
+P277	programming language@en
+P2784	Mercalli intensity scale@en
+P2789	connects with@en
+P2795	directions@en
+P279	subclass of@en
+P27	country of citizenship@en
+P2812	MathWorld identifier@en
+P2813	mouthpiece@en
+P2817	appears in the heritage monument list@en
+P281	postal code@en
+P2820	cardinality of this set@en
+P2821	by-product@en
+P2822	by-product of@en
+P2825	via@en
+P2827	flower color@en
+P2828	corporate officer@en
+P282	writing system@en
+P2831	totem@en
+P2838	professional name (Japan)@en
+P2839	gait@en
+P2841	age of onset@en
+P2846	wheelchair accessibility@en
+P2848	Wi-Fi@en
+P2849	produced by@en
+P2851	payment types accepted@en
+P2852	emergency phone number@en
+P2853	electrical plug type@en
+P2859	X-SAMPA Code@en
+P2860	cites@en
+P2868	subject has role@en
+P2869	record or record progression@en
+P286	head coach@en
+P2872	tourist office@en
+P2875	property usage tracking category@en
+P2876	type of unit for this property@en
+P287	designed by@en
+P2881	promoted@en
+P2882	relegated@en
+P2888	exact match@en
+P2892	UMLS CUI@en
+P2894	day of week@en
+P289	vessel class@en
+P2910	icon@en
+P291	place of publication@en
+P2922	month of the year@en
+P2925	domain of saint or deity@en
+P2935	connector@en
+P2936	language used@en
+P2937	parliamentary term@en
+P2949	WikiTree person ID@en
+P2959	permanent duplicated item@en
+P2962	title of chess player@en
+P2964	right to vote@en
+P2968	QUDT unit ID@en
+P296	station code@en
+P2974	habitat@en
+P2975	host@en
+P2976	patronym or matronym@en
+P2976	patronym or matronym for this name@en
+P2977	LBT person ID@en
+P2978	wheel arrangement@en
+P297	ISO 3166-1 alpha-2 code@en
+P2989	has grammatical case@en
+P298	ISO 3166-1 alpha-3 code@en
+P2992	software quality assurance@en
+P3005	valid in place@en
+P300	ISO 3166-2 code@en
+P3014	laws applied@en
+P3015	backup or reserve team or crew@en
+P3018	located in protected area@en
+P3019	railway signalling system@en
+P301	category's main topic@en
+P3022	flag bearer@en
+P3025	open days@en
+P3026	closed on@en
+P3027	open period from@en
+P3028	open period to@en
+P3031	EPPO Code@en
+P3032	adjacent building@en
+P3033	package management system@en
+P3037	spatial reference system@en
+P304	page(s)@en
+P3050	FACR player ID@en
+P306	operating system@en
+P3075	official religion@en
+P3080	game artist@en
+P3081	damaged@en
+P3082	destroyed@en
+P3083	SIMBAD ID@en
+P3085	qualifies for event@en
+P3091	mount@en
+P3092	film crew member@en
+P3093	recovered by@en
+P3094	develops from@en
+P3095	practiced by@en
+P3096	KML file@en
+P30	continent@en
+P3103	has tense@en
+P3113	does not have part@en
+P3121	Epguides ID@en
+P3130	NSW Flora ID@en
+P3132	last line@en
+P3137	parent peak@en
+P3148	repeals@en
+P3150	birthday@en
+P3156	Australian Classification@en
+P3158	enclosure@en
+P3161	has grammatical mood@en
+P3173	offers view on@en
+P3174	art director@en
+P3179	territory overlaps@en
+P3189	innervated by@en
+P3190	innervates@en
+P3192	Last.fm ID@en
+P3195	league points system@en
+P31	instance of@en
+P3205	patient of@en
+P3216	ClassInd rating@en
+P3259	intangible cultural heritage status@en
+P3261	anatomical branch of@en
+P3262	has anatomical branch@en
+P3263	base@en
+P3264	radix@en
+P3274	content deliverer@en
+P3275	storyboard artist@en
+P3279	statistical leader@en
+P3294	encoding@en
+P3295	code@en
+P3300	musical conductor@en
+P3301	broadcast by@en
+P3306	ICAA rating@en
+P3310	muscle action@en
+P3311	plan view image@en
+P3314	365chess player ID@en
+P3320	board member@en
+P3335	hazard on site@en
+P3342	significant person@en
+P3349	designed to carry@en
+P3354	positive therapeutic predictor@en
+P3355	negative therapeutic predictor@en
+P3356	positive diagnostic predictor@en
+P3364	stereoisomer of@en
+P3373	sibling@en
+P3374	endianness@en
+P3380	FAO 2007 genetic resource ID@en
+P3381	File Format Wiki page ID@en
+P3383	film poster@en
+P3398	Butterflies and Moths of North America ID@en
+P3400	CORDIS Project ID@en
+P3402	CNC film rating (Romania)@en
+P3403	coextensive with@en
+P3409	Catalogus Professorum Lipsiensis ID@en
+P3415	start period@en
+P3416	end period@en
+P3417	Quora topic ID@en
+P3428	INCAA film rating@en
+P3432	parent cell line@en
+P3433	biological variant of@en
+P3437	people or cargo transported@en
+P3438	vehicle normally used@en
+P3440	time signature@en
+P3441	FIFA country code@en
+P3447	mirrors data from@en
+P3448	stepparent@en
+P344	director of photography@en
+P3450	sports season of@en
+P3450	sports season of league or competition@en
+P3451	nighttime view@en
+P3460	colonel-in-chief@en
+P3461	designated as terrorist by@en
+P3463	Fedora package@en
+P3464	medicine marketing authorization@en
+P3469	WTA tennis tournament ID@en
+P3489	pregnancy category@en
+P348	software version identifier@en
+P3490	muscle origin@en
+P3491	muscle insertion@en
+P3493	legal status (medicine)@en
+P3494	points classification@en
+P3496	teams classification by points@en
+P3497	teams classification by time@en
+P3499	Gentoo package@en
+P3501	Catholic rite@en
+P3512	means of locomotion@en
+P3514	U.S. National Geodetic Survey ID@en
+P3520	databaseOlympics.com athlete ID@en
+P3525	ACB.com player ID@en
+P352	UniProt protein ID@en
+P3532	databaseFootball.com ID@en
+P3533	draftexpress.com ID@en
+P353	HGNC gene symbol@en
+P3547	AFL Tables player ID@en
+P355	subsidiary@en
+P3561	Pro-Football-Reference.com player ID@en
+P356	DOI@en
+P3578	autologous cell line@en
+P358	discography@en
+P3592	saros cycle of eclipse@en
+P3592	Saros cycle of eclipse@en
+P35	head of state@en
+P3602	candidacy in election@en
+P360	is a list of@en
+P3610	fare zone@en
+P361	part of@en
+P3625	Kirshenbaum code@en
+P3636	PDB ligand ID@en
+P3639	KEPN ID@en
+P3643	significant environmental impact@en
+P364	original language of film or TV show@en
+P364	original language of work@en
+P3650	JMK film rating@en
+P366	use@en
+P3674	Mutopia composer ID@en
+P3679	stock market index@en
+P3680	statement supported by@en
+P369	Sandbox-Item@en
+P36	capital@en
+P3701	incarnation of@en
+P3712	objective of project or action@en
+P3716	social classification@en
+P3719	regulated by@en
+P371	presenter@en
+P3729	next lower rank@en
+P3730	next higher rank@en
+P3739	inflorescence@en
+P373	Commons category@en
+P3741	seed dispersal@en
+P375	space launch vehicle@en
+P3764	pole position@en
+P376	located on astronomical body@en
+P376	located on astronomical location@en
+P3772	agonist of@en
+P3773	antagonist of@en
+P3774	blocker of@en
+P3776	inhibitor of@en
+P3777	antisense inhibitor of@en
+P3780	active ingredient in@en
+P3781	has active ingredient@en
+P3795	Flora of Israel Online plant ID@en
+P37	official language@en
+P3803	original film format@en
+P3807	S2A3 Biographical Database ID@en
+P3808	The Numbers movie ID@en
+P3815	volcano observatory@en
+P3816	film script@en
+P3818	KMRB film rating@en
+P3822	rules for classification@en
+P3823	Ethnologue language status@en
+P3828	wears@en
+P3831	object has role@en
+P3833	diaspora@en
+P3834	RTC film rating@en
+P3842	located in present-day administrative territorial entity@en
+P3858	route diagram@en
+P3869	IAFD female performer ID@en
+P3871	tributary orientation@en
+P3876	category for alumni of educational institution@en
+P3878	Soundex@en
+P38	currency@en
+P3902	had as last meal@en
+P3912	newspaper format@en
+P3919	contributed to creative work@en
+P3919	contributed to published work@en
+P3926	USATF athlete ID@en
+P3931	copyright holder@en
+P3931	copyright owner@en
+P3938	named by@en
+P395	licence plate code@en
+P3966	programming paradigm@en
+P3967	final event@en
+P3969	signed form@en
+P3975	secretary general@en
+P397	parent astronomical body@en
+P3984	subreddit@en
+P3985	supports programming language@en
+P3989	members have occupation@en
+P398	child astronomical body@en
+P3994	racon signal@en
+P3995	Filmweb.pl ID@en
+P399	companion of@en
+P39	position held@en
+P4000	has fruit type@en
+P4002	WFD Ecological status@en
+P4004	shield image@en
+P4006	overrules@en
+P400	platform@en
+P4024	ADW taxon ID@en
+P402	OSM relation ID@en
+P4032	reviewed by@en
+P403	mouth of the watercourse@en
+P4043	emulates@en
+P4044	therapeutic area@en
+P404	game mode@en
+P406	soundtrack album@en
+P4070	identifier shared with@en
+P407	language of work or name@en
+P4082	image captured with@en
+P408	software engine@en
+P4091	Irish Grid Reference@en
+P4099	metrically compatible typeface@en
+P40	child@en
+P4100	parliamentary group@en
+P4101	dissertation submitted to@en
+P410	military rank@en
+P411	canonization status@en
+P4122	PalDat plant ID@en
+P412	voice type@en
+P4132	linguistic typology@en
+P413	position played on team / speciality@en
+P4147	conjugate acid@en
+P4149	conjugate base@en
+P414	stock exchange@en
+P4151	game mechanics@en
+P4159	WeRelate person ID@en
+P415	radio format@en
+P416	quantity symbol@en
+P4174	Wikimedia username@en
+P4175	Patreon ID@en
+P417	patron saint@en
+P4185	has attribute@en
+P4185	iconographic symbol@en
+P418	seal description@en
+P4195	category for employees of the organization@en
+P41	flag image@en
+P4202	WFD Chemical status@en
+P4204	The Times of India topic ID@en
+P421	located in time zone@en
+P4220	order of battle@en
+P4224	category contains@en
+P4229	ICD-10-CM@en
+P423	shooting handedness@en
+P4259	Lega Pallavolo Serie A Femminile player ID@en
+P425	field of this occupation@en
+P4271	rating@en
+P427	taxonomic type@en
+P4284	Nominis given name ID@en
+P4286	Nominis saint ID@en
+P428	botanist author abbreviation@en
+P4290	official app@en
+P4292	possessed by spirit@en
+P4301	PfaF id@en
+P4303	Lega Pallavolo Serie A player ID@en
+P4312	camera setup@en
+P4320	mountains classification@en
+P4321	best combative classification@en
+P4322	best sprinter classification@en
+P4323	young rider classification@en
+P4324	combination classification@en
+P4329	Wikimedia template that populates this category@en
+P432	callsign of airline@en
+P4330	contains@en
+P433	issue@en
+P4340	PubsHistory pub ID@en
+P4342	Store norske leksikon ID@en
+P4345	excavation director@en
+P4353	nominated by@en
+P4379	youth wing@en
+P437	distribution@en
+P4387	update method@en
+P4411	Quora username@en
+P4424	mandates@en
+P4425	mtDNA haplogroup@en
+P4426	Y-DNA Haplogroup@en
+P4428	implementation of@en
+P4433	Indian Foundation for Butterflies ID@en
+P4434	LesBiographies.com ID@en
+P4437	FPB rating@en
+P443	pronunciation audio@en
+P4443	card network@en
+P4444	reward@en
+P4446	reward program@en
+P4479	INDUCKS character ID@en
+P447	review score by@en
+P4483	INDUCKS story ID@en
+P449	original network@en
+P450	astronaut mission@en
+P4510	describes a project that uses@en
+P451	partner@en
+P452	industry@en
+P453	character role@en
+P4543	has listed ingredient@en
+P4545	sexually homologous with@en
+P4552	mountain range@en
+P4567	BTO five-letter code@en
+P457	foundational text@en
+P4584	first appearance@en
+P4586	type foundry@en
+P4599	monomer of@en
+P459	determination method@en
+P4600	polymer of@en
+P4608	scenographer@en
+P460	said to be the same as@en
+P4614	drainage basin@en
+P461	opposite of@en
+P4622	trophy awarded@en
+P4624	squadron embarked@en
+P4628	ICTV virus genome composition@en
+P4629	Online Books Page author ID@en
+P462	color@en
+P4634	premiere type@en
+P463	member of@en
+P4646	representation of@en
+P4647	location of first performance@en
+P4661	reservoir created@en
+P466	occupant@en
+P4675	appears in the form of@en
+P467	legislated by@en
+P4685	Nintendo of America Game Store ID@en
+P4688	geomorphological unit@en
+P468	dan/kyu rank@en
+P469	lakes on river@en
+P4701	Google Arts & Culture asset ID@en
+P470	Eight Banner register@en
+P4731	The Baseball Cube player ID@en
+P4732	IUPAC GoldBook ID@en
+P4733	produced sound@en
+P473	local dialing code@en
+P4743	animal breed@en
+P4745	is proceedings from@en
+P4755	UK railway station code@en
+P4765	Commons compatible image available at URL@en
+P4770	is a hydrated form of@en
+P4774	biological phase@en
+P4777	has boundary@en
+P4788	uses data storage type@en
+P4791	commanded by@en
+P4792	dam@en
+P4794	season starts@en
+P479	input method@en
+P47	shares border with@en
+P4805	make-up artist@en
+P4809	sets environment variable@en
+P4810	reads environment variable@en
+P4822	La Poste personality ID@en
+P4828	JORFSearch person ID@en
+P4837	has command line option@en
+P483	recorded at@en
+P4843	development of anatomical structure@en
+P4844	research intervention@en
+P4845	Bulbapedia article@en
+P4850	permitted food additive@en
+P4854	Uppslagsverket Finland ID@en
+P485	archives at@en
+P486	MeSH ID@en
+P4873	isoschizomer@en
+P4875	neoschizomer@en
+P4878	symbolizes@en
+P487	Unicode character@en
+P4882	segmental innervation@en
+P4884	court@en
+P488	chairperson@en
+P489	currency symbol description@en
+P4900	broader concept@en
+P4908	season@en
+P4913	dialect of@en
+P4915	isocaudomer@en
+P4934	calculated from@en
+P494	ICD-10@en
+P4952	safety classification and labelling@en
+P4954	may prevent@en
+P495	country of origin@en
+P4967	prerequisite@en
+P4968	relevant qualification@en
+P4969	derivative work@en
+P4970	alternate names@en
+P4988	test method@en
+P498	ISO 4217 code@en
+P5000	analog or derivative of@en
+P5004	in opposition to	
+P5004	in opposition to@en
+P5008	on focus list of Wikimedia project@en
+P5009	complies with@en
+P500	exclave of@en
+P5012	special rank@en
+P501	enclave within@en
+P5021	test taken@en
+P5023	activity policy in this place@en
+P5024	choral conductor@en
+P5025	gens@en
+P5026	lighting designer@en
+P5028	sound designer@en
+P5030	talk show guest@en
+P5047	Rosetta Code ID@en
+P504	home port@en
+P5052	supervisory board member@en
+P5053	fastest lap@en
+P5054	cabinet@en
+P5056	patronym or matronym for this person@en
+P5059	modified version of@en
+P505	general manager@en
+P5068	Flanders Arts Institute person ID@en
+P5070	French standard size for oil paintings@en
+P5072	presented in@en
+P5082	Store medisinske leksikon ID@en
+P5095	fault@en
+P5096	member of the crew of
+P5096	member of the crew of@en
+P5099	Il mondo dei doppiatori ID@en
+P509	cause of death@en
+P50	author@en
+P5101	Swedish Literature Bank AuthorID@en
+P5102	nature of statement@en
+P5105	Deutsche Bahn station category@en
+P5108	HanCinema film ID@en
+P5109	has grammatical gender@en
+P5110	has grammatical person@en
+P511	honorific prefix@en
+P5125	Wikimedia outline@en
+P5126	assistant director@en
+P512	academic degree@en
+P5130	island of location  (DEPRECATED)@en
+P5130	island of location@en
+P5131	possible medical findings@en
+P5132	suggests the existence of@en
+P5133	has evaluation@en
+P5134	evaluation of@en
+P5135	greater than@en
+P5136	less than@en
+P5138	season of club or team@en
+P514	interleaves with@en
+P5150	IGAC rating@en
+P5152	KAVI rating@en
+P515	phase of matter@en
+P5166	established from medical condition@en
+P516	powerplant@en
+P517	interaction@en
+P518	applies to part@en
+P5196	output method@en
+P51	audio@en
+P5201	IMDA rating@en
+P5202	adapted by@en
+P5203	topographic map@en
+P5206	has conjugation class@en
+P520	armament@en
+P521	scheduled service destination@en
+P522	type of orbit@en
+P5236	prime factor@en
+P523	temporal range start@en
+P5248	medical evacuation to@en
+P5249	sports competition competed at@en
+P524	temporal range end@en
+P5277	grade of kanji@en
+P5278	gender inflection of surname@en
+P527	has part@en
+P5280	radical@en
+P5282	ground level 360 degree view@en
+P5286	Portable Game Notation@en
+P528	catalog code@en
+P5304	type locality (biology)@en
+P5307	display technology@en
+P530	diplomatic relation@en
+P531	diplomatic mission sent@en
+P5326	publication in which this taxon name was established@en
+P5328	revival or touring version of@en
+P532	port of registry@en
+P5330	United Kingdom Department for Transport railway station category@en
+P5338	SilentEra.com film ID@en
+P5339	Lega Serie A soccer player ID@en
+P533	target@en
+P534	streak color@en
+P5353	school district@en
+P5361	BNB person ID@en
+P536	ATP player ID@en
+P537	twinning@en
+P5386	JMA Seismic Intensity Scale@en
+P5389	permanent resident of@en
+P538	fracturing@en
+P53	family@en
+P5400	GeoNLP ID@en
+P541	office contested@en
+P5422	has decorative pattern@en
+P542	officially opened by@en
+P5438	signum@en
+P5439	research measurement@en
+P543	oath made by@en
+P5441	Herder Encyclopedia author ID@en
+P5442	Biographical Articles of the Library of Congress of Chile@en
+P5444	model year@en
+P5446	reference value@en
+P545	torch lit by@en
+P5460	grants@en
+P546	docking port@en
+P5475	CJKV variant character@en
+P5476	LegaBasket.it player ID@en
+P547	commemorates@en
+P548	version type@en
+P54	member of sports team@en
+P550	chivalric order@en
+P5510	DEFA film database ID@en
+P5514	accreditation@en
+P551	residence@en
+P5522	Unicode block@en
+P5523	fanqie@en
+P552	handedness@en
+P5537	Hangul of a Chinese character@en
+P553	website account on@en
+P556	crystal system@en
+P559	terminus@en
+P560	direction@en
+P561	NATO reporting name@en
+P562	central bank/issuer@en
+P565	crystal habit@en
+P566	basionym@en
+P567	underlies@en
+P568	overlies@en
+P579	IMA status and/or rank@en
+P57	director@en
+P588	coolant@en
+P589	point group@en
+P58	screenwriter@en
+P594	Ensembl Gene ID@en
+P598	commander of@en
+P59	constellation@en
+P607	conflict@en
+P608	exhibition history@en
+P609	terminus location@en
+P610	highest point@en
+P611	religious order@en
+P612	mother house@en
+P617	yard number@en
+P618	source of energy@en
+P61	discoverer or inventor@en
+P624	guidance system@en
+P625	coordinate location@en
+P629	edition or translation of@en
+P631	structural engineer@en
+P634	captain@en
+P636	route of administration@en
+P641	sport@en
+P642	of@en
+P647	drafted by@en
+P652	UNII@en
+P654	direction relative to location@en
+P655	translator@en
+P657	RTECS number@en
+P658	tracklist@en
+P659	genomic assembly@en
+P65	site of astronomical discovery@en
+P660	EC enzyme classification@en
+P664	organizer@en
+P669	located on street@en
+P66	ancestral home@en
+P670	street number@en
+P674	characters@en
+P675	Google Books ID@en
+P676	lyrics by@en
+P680	molecular function@en
+P681	cell component@en
+P682	biological process@en
+P684	ortholog@en
+P688	encodes@en
+P689	afflicts@en
+P690	space group@en
+P693	cleavage@en
+P694	replaced synonym (for nom. nov.)@en
+P69	educated at@en
+P6	head of government@en
+P702	encoded by@en
+P703	found in taxon@en
+P704	Ensembl Transcript ID@en
+P705	Ensembl Protein ID@en
+P706	located on terrain feature@en
+P707	satellite bus@en
+P708	diocese@en
+P710	participant@en
+P720	asteroid spectral type@en
+P724	Internet Archive ID@en
+P725	voice actor@en
+P726	candidate@en
+P734	family name@en
+P735	given name@en
+P736	cover artist@en
+P737	influenced by@en
+P739	ammunition@en
+P740	location of formation@en
+P741	playing hand@en
+P742	pseudonym@en
+P744	asteroid family@en
+P747	edition@en
+P747	has edition@en
+P748	appointed by@en
+P749	parent organization@en
+P750	distributor@en
+P751	introduced feature@en
+P756	removed feature@en
+P765	surface played on@en
+P767	contributor(s) to the creative work@en
+P768	electoral district@en
+P769	significant drug interaction@en
+P770	cause of destruction@en
+P780	symptoms@en
+P783	hymenium type@en
+P784	mushroom cap shape@en
+P785	hymenium attachment@en
+P786	stipe character@en
+P787	spore print color@en
+P788	mushroom ecological type@en
+P789	edibility@en
+P78	top-level Internet domain@en
+P790	approved by@en
+P792	chapter@en
+P793	significant event@en
+P795	located on linear feature@en
+P797	authority@en
+P798	military designation@en
+P800	notable work@en
+P802	student@en
+P803	professorship@en
+P805	statement is subject of@en
+P807	separated from@en
+P809	WDPA ID@en
+P811	academic minor@en
+P812	academic major@en
+P814	IUCN protected areas category@en
+P816	decays to@en
+P817	decay mode@en
+P81	connecting line@en
+P822	mascot@en
+P823	speaker@en
+P825	dedicated to@en
+P826	tonality@en
+P828	has cause@en
+P831	parent club@en
+P832	public holiday@en
+P833	interchange station@en
+P834	train depot@en
+P835	author citation (zoology)@en
+P837	day in year for periodic occurrence@en
+P839	IMSLP ID@en
+P840	narrative location@en
+P841	feast day@en
+P84	architect@en
+P852	ESRB rating@en
+P853	CERO rating@en
+P856	official website@en
+P859	sponsor@en
+P85	anthem@en
+P868	foods traditionally associated@en
+P86	composer@en
+P870	instrumentation@en
+P872	printed by@en
+P873	phase point@en
+P878	avionics@en
+P879	pennant number@en
+P87	librettist@en
+P880	CPU@en
+P881	type of variable star@en
+P885	origin of the watercourse@en
+P88	commissioned by@en
+P901	FIPS 10-4 (countries and regions)@en
+P908	PEGI rating@en
+P910	topic's main category@en
+P912	has facility@en
+P913	notation@en
+P914	USK rating@en
+P915	filming location@en
+P916	GSRR rating@en
+P91	sexual orientation@en
+P921	main subject@en
+P922	magnetic ordering@en
+P923	medical examinations@en
+P924	medical treatment@en
+P925	presynaptic connection@en
+P926	postsynaptic connection@en
+P927	anatomical location@en
+P928	activating neurotransmitter@en
+P92	main regulatory text@en
+P930	type of electrification@en
+P931	place served by transport hub@en
+P935	Commons gallery@en
+P937	work location@en
+P941	inspired by@en
+P942	theme music@en
+P943	programmer@en
+P944	Code of nomenclature@en
+P945	allegiance@en
+P946	ISIN@en
+P948	page banner@en
+P94	coat of arms image@en
+P953	full work available at@en
+P965	burial plot reference@en
+P967	guest of honor@en
+P969	located at street address (DEPRECATED)@en
+P970	neurological function@en
+P971	category combines topics@en
+P972	catalog@en
+P973	described at URL@en
+P974	tributary@en
+P97	noble title@en
+P984	IOC country code@en
+P98	editor@en
+P990	audio recording of the subject's spoken voice@en
+P991	successful candidate@en
+P996	scanned file on Wikimedia Commons@en
+P998	DMOZ ID@en

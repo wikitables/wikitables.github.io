@@ -1,0 +1,67 @@
+DataID	Value	PaperId	Note
+0	Id (not used)	-1	
+1	(Not used)	-1	
+2	Table id in article	1	
+3	Rows	2	
+4	Columns	3	
+5	Ratio rows and columns	4	
+6	Total relations in table	5	
+7	Subject column index	6	
+8	Object column index	7	
+9	Entities in subject column	8	
+10	Entities in object column	9	
+11	Ratio entities in subject and object column	10	
+12	Unique entities in subject column	11	
+13	Unique entities in object column	12	
+14	Ratio unique entities subject and object columns	13	
+15	Potential relations	14	
+16	Unique potential relations	15	
+17	Unique subjects by predicate in KB	18	
+18	Unique objects by predicate in KB	19	
+19	Total triples by predicate in KB	17	
+20	Ratio unique objects and total triples by predicate in KB	20	
+21	Number of entities in subject cell	25	"When multi-links are filtered, all values = 1"
+22	Number of entities in object cell	26	"When multi-links are filtered, all values = 1"
+23	Ratio of entities in subject and object cell	27	"When multi-links are filtered, all values = 1"
+24	String length in subject cell	28	
+25	String length in object cell	29	
+26	Formatting present in subject cell	30	
+27	Formatting present in object cell	31	
+28	String similarity (predicate and subject header)	38	
+29	String similarity (predicate and object header)	39	
+30	Maximum between 28 and 29	40	
+31	Rows where predicate holds	41	
+32	Ratio rows where predicate holds and table rows	42	
+33	Potential relations where predicate holds	43	
+34	Ratio pot. relations where predicate holds	44	
+35	Unique potential relations where predicate holds	45	
+36	Ratio unique pot. relations where predicate holds	46	
+37	From article or body relation	16	
+38	Source	49'	"0=Table, 1=Wikidata, 2=Group; values of 1 are filtered"
+39	Object entity is in range of predicate	24	
+40	Subject entity is in domain of predicate	23	
+41	Length of additional text in subject cell	34	
+42	Length of additional text in object cell	35	
+43	Number of links in subject cell	32	
+44	Number of links in object cell	33	
+45	Exist colspan or rowspan in subject cell	36	
+46	Exist colspan or rowspan in object cell	37	
+47	Maximum number of subjects by predicate	21	
+48	Maximum number of objects by predicate	22	
+49	Objects by the subject and predicate	47	
+50	Subjects by the object and predicate	48	
+51	Entities in subject column by group	8'	
+52	Entities in object column by group	9'	
+53	Unique entities in subject column by group	11'	
+54	Unique entities in object column by group	12'	
+55	Potential relations in tables group	14'	
+56	Unique pot. relations in tables group	15'	
+57	Potential relations where predicate holds in tables group	43'	
+58	Unique pot. relations where predicate holds in tables group	45'	
+59	Rows where predicate holds in tables group	41'	
+60	Rows in tables group	2'	
+61	Ratio unique pot. relations where predicate holds in tables group	46'	
+62	Ratio rows where predicate holds in tables group	42'	
+63	Ratio pot. relations where predicate holds in tables group	44'	
+64	(Not used)	-1	
+65	Num. tables by group	50'	
