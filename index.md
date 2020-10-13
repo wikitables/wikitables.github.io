@@ -45,6 +45,10 @@ Further data are provided in this [Github repository](https://github.com/wikitab
 * `test_groups_100.tsv`: A set of 100 labelled candidate triples extracted from grouped tables (M) used for testing.
 * `validation_results.xlsx`: The results of the validation of 200 output candidate triples from (I*/B), (I+/C) and (M+/D).
 
+# Code
+
+The code for the project is available from the [following repository](https://github.com/wikitables/web-of-data-tables/tree/master/source).
+
 # Contact
 
 - Jhomara Luzuriaga
