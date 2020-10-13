@@ -35,7 +35,7 @@ Data used for the experiments in this paper are made available for download at [
 
 Further data are provided in this [Github repository](https://github.com/wikitables/wikitables.github.io) including:
 
-* `feature_names.tsv`: A desription of each feature, the ID used in these data, and the ID used in the paper (for clarity we reordered some of the feature IDs).
+* `feature_names.tsv`: A desription of each feature, the ID used in these data, and the ID used in the paper (for clarity we reordered some of the feature IDs in the paper).
 * `wikidata_prop_en_labels.tsv`: English labels for Wikidata properties used (note that `Pn-1` indicates the inverse of `Pn`).
 * `wikidata_prop_stats.tsv`: Statistics for Wikidata properties used to build features.
 * `wikidata_prop_compat_stats.tsv`: Statistics for pairs of Wikidata properties used to compute compatibility scores.
