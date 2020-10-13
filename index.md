@@ -22,9 +22,28 @@ extract 5.9 million novel and unique triples for Wikidata at an estimated precis
 
 # Data
 
-All data used for the experiments in this paper are made available for download at [https://zenodo.org/record/3483254](https://zenodo.org/record/3483254).
+Data used for the experiments in this paper are made available for download at [https://zenodo.org/record/3483254](https://zenodo.org/record/3483254), including:
+
+* `wikipedia_html.tar`: the Wikipedia HTML corpus; 
+* `tablesByCluster.tar.gz`: the corpus of (grouped) Wikitables; 
+* and the final candidate triples extracted from:
+  * `triplesProbalModelB.csv.gz` individual tables with extended features (I*/B), 
+  * `triplesProbalModelC.csv.gz` individual tables with extended and merged features (I+/C), and 
+  * `triplesProbalModelD.csv.gz` merged tables with extended and merged features (M+/D). 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3483254.svg)](https://doi.org/10.5281/zenodo.3483254)
+
+Further data are provided in this [Github repository](https://github.com/wikitables/wikitables.github.io) including:
+
+* `feature_names.tsv`: A desription of each feature, the ID used in these data, and the ID used in the paper (for clarity we reordered some of the feature IDs).
+* `wikidata_prop_en_labels.tsv`: English labels for Wikidata properties used (note that `Pn-1` indicates the inverse of `Pn`).
+* `wikidata_prop_stats.tsv`: Statistics for Wikidata properties used to build features.
+* `wikidata_prop_compat_stats.tsv`: Statistics for pairs of Wikidata properties used to compute compatibility scores.
+* `train_tables_500.tsv`: A set of 500 labelled candidate triples extracted from individual tables (I) used for training.
+* `test_tables_100.tsv`: A set of 100 labelled candidate triples extracted from individual tables (I) used for testing.
+* `train_groups_500.tsv`: A set of 500 labelled candidate triples extracted from grouped tables (M) used for training.
+* `test_groups_100.tsv`: A set of 100 labelled candidate triples extracted from grouped tables (M) used for testing.
+* `validation_results.xlsx`: The results of the validation of 200 output candidate triples from (I*/B), (I+/C) and (M+/D).
 
 # Contact
 
